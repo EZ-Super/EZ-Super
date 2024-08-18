@@ -7,12 +7,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Frontend-brightgreen" alt="Frontend Developer Badge" />
-  <img src="https://img.shields.io/badge/Deeplearner-PyTorch-orange" alt="Deeplearner Badge" />
-  <img src="https://img.shields.io/badge/Web_Developer-React-blue" alt="Web Developer Badge" />
-  <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code Lover Badge" />
- <img src ="https://img.shields.io/badge/Developer_Backend" alt = >
- 
+ <img src ="https://img.shields.io/badge/Developer_Backend">
 </p>
 
 
