@@ -7,8 +7,8 @@
 
 
 # 👨🏻‍💻&nbsp;About Me
- **🔹 Active:Everyday`7:00-23:00` (GMT+8) **<br> 
- **🔹 Status:DND (Message reply in: `5`hours)  **<br> 
+ **🔹 Active:Everyday`7:00-23:00` (GMT+8) ** <br> 
+ **🔹 Status:DND (Message reply in: `5`hours)  ** <br> 
  **🔸 Penetration Tester/Malware analyst and reverse Engineer.** <br>
  **⚠️ Please contact me via Telegram for business partnerships or inquiries.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
