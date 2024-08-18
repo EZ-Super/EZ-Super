@@ -7,6 +7,10 @@
 
 <!-- About Me -->
 <h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
+**:small_orange_diamond:Penetration Tester/Malware analyst and reverse Engineer.
+:warning: Please contact me via Telegram for business partnerships or inquiries.
+:speech_left: Telegram:  `@Ousutw`**
+> :dollar: Payment Methods: Paypal
 
 
 
