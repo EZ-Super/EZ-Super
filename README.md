@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code Lover Badge" />
  <img src ="https://img.shields.io/badge/Developer_Backend" alt = >
  
- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
- <img src= "https://github-readme-stats.vercel.app/api?username=EZ-Super&theme=blue-green">
 </p>
 
 
