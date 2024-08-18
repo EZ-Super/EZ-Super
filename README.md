@@ -16,63 +16,6 @@
 &nbsp;
 
 
-
-```python
-import torch
-
-class whats2000(torch.nn.Module):
-    def __init__(self):
-        super(whats2000, self).__init__()
-        self.name = "whats2000"
-        self.pronouns = "He/Him"
-
-        self.projects = [
-            "LLM Improve Coding Performance - CodeBRT project",
-            "Compose Text Image Retrieval Research - Blip-With-LLMLabelImage project",
-            "CTEC Website Development Phase 2 - CTEC website project"
-        ]
-
-        self.learning = [
-            "How to improve coding performance with LLM and user experience",
-            "Zero-shot learning combined with text image retrieval",
-            "React and Node.js for website development"
-        ]
-
-        self.collaborate_on = ["CodeBRT project"]
-
-        self.help_with = [
-            "LLM improve coding performance",
-            "Frontend development in VSCode extension",
-            "Testing and debugging in VSCode extension on MacOS"
-        ]
-
-        self.ask_me_about = [
-            "Developing VSCode extension with React and TypeScript",
-            "PyTorch and Hugging Face Transformers deployment",
-            "TypeScript and React development with Vite",
-            "Website development with React and Node.js"
-        ]
-
-        self.reach_me = "Create an issue in the repository"
-
-        self.love = [
-            "Coding Frontend",
-            "Playing with Torch",
-            "Trying new languages I've never used before",
-            "Publishing interesting projects"
-        ]
-
-        self.fun_facts = [
-            "I am writing this README.md at 03:54 AM 🤔",
-            "I am a night owl 🦉"
-        ]
-
-    def forward(self, input):
-        return input
-
-profile = whats2000()
-```
-
 <!-- IDE Used -->
 <h2 align="center">🛠 &nbsp;IDEs I Use</h2>
 <div align="center">
