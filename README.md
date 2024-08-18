@@ -38,5 +38,4 @@
 
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
 
