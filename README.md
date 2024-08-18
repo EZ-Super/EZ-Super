@@ -1,4 +1,4 @@
-<h1 align="center" style="display: none;">Welcome to whats2000's GitHub Profile! 🚀</h1>
+<h1 align="center" style="display: none;">👾 Welcome to Ousu's GitHub Profile! 👾</h1>
 
 <p align='center'>
   <picture>
