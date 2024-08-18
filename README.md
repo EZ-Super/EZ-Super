@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Backend "/>
+  <img src="https://img.shields.io/badge/Developer-Backend-brightgreen"/>
 </p>
 
 
