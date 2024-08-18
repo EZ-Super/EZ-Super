@@ -1,11 +1,12 @@
 <h1 align="center" style="display: none;">👾 Welcome to Ousu's GitHub Profile! 👾</h1>
 
 <p align='center'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=61DAFB">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=35495E">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ousu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62"/>
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=FFFFFF&fontAlign=70&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=000000&fontAlign=70&theme=light">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=FFFFFF&fontAlign=70"/>
+</picture>
+
 </p>
 
 <p align="center">
