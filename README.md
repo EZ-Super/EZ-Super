@@ -5,8 +5,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ousu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Github%20page!&descAlignY=51&descAlign=62"/>
 </p>
 
-<!-- About Me -->
-#👨🏻‍💻 About Me
+
+#👨🏻‍💻&nbsp;About Me
 
 🔸Penetration Tester/Malware analyst and reverse Engineer.
 :warning: Please contact me via Telegram for business partnerships or inquiries.
