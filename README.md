@@ -3,7 +3,7 @@
 <p align='center'>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=FFFFFF&fontAlign=70&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=000000&fontAlign=70&theme=light">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=Ousu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=000000&fontAlign=70&theme=light">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=FFFFFF&fontAlign=70"/>
 </picture>
 
