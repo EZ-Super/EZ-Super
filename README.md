@@ -14,7 +14,7 @@
   </a>
   <a href="https://capsule-render.vercel.app/">
     <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Supertheme=blue-green">
+   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green">
   </a>
 </p> 
 
