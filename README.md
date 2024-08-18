@@ -11,10 +11,6 @@
 
 
 
-<h3align="left">與我聯絡：</h3>
-<palign="left">
-<a href="https:// discord.gg /o_in" target="blank"><imgalign="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/discord. svg" alt="o_in" height="30" width="40" /></a>
-</p>
 
 ```python
 import torch
