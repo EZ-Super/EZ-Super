@@ -8,9 +8,9 @@
 
 # 👨🏻‍💻&nbsp;About Me
 
-🔸Penetration Tester/Malware analyst and reverse Engineer.
-:warning: Please contact me via Telegram for business partnerships or inquiries.
-:speech_left: Telegram:  `@Ousutw`**
+## 🔸 Penetration Tester/Malware analyst and reverse Engineer.
+## ⚠️ Please contact me via Telegram for business partnerships or inquiries.
+## 💬 Telegram:  `@Ousutw`**
 Payment Methods: Paypal
 
 &nbsp;
