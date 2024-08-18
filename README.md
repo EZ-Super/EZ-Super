@@ -18,7 +18,8 @@
 
 ## 🛠️ IDE Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
-![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50">
+
 
 ## 🧰 &nbsp;My toolbox
 
