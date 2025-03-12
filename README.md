@@ -50,19 +50,14 @@
 </div>
 
 ## 📊 Stats
-<div align="center">
-    
+<details>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+    <div align="center">
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=EZ-Super&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)-->
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
-
 </div>
+</details>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 
