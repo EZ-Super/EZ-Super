@@ -10,7 +10,7 @@
 
  **🔹 Active: Everyday`7:00-23:00` (GMT+8)** <br> 
  **🔹 Status: DND (Message reply in: `5`hours)** <br> 
- **🔸 Research Domain: Binary Reverse Engineering、Malware analyst、Exploit Development.** <br>
+ **🔸 Research Domains: Binary Reverse Engineering, Malware Analysis, Exploit Development.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
  **<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Discord: `o_in`** <br>
 
