@@ -49,3 +49,12 @@
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EZ-Super/EZ-Super/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
