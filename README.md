@@ -50,6 +50,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="50" height="50"/>
 </div>
 
+## 🛜 DNS
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
+</div>
+
 ## 📊 Stats
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
