@@ -51,6 +51,9 @@
 </div>
 
 ## 🛜 DNS
+* Domain
+  * ethidra.org
+  * csbctw.org
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="50" height="50"/>
 </div>
