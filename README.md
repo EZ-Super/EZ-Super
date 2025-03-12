@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
           
 ## 🧰 &nbsp;My toolbox
-<img src="/image/Ghidra.jpg" width="50" height="50"/>
+<img src="/Image/Ghidra.jpg" width="50" height="50"/>
 
 
 </div>
