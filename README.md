@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
 </div>
           
-## 🧰 My toolbox
+## 🧰 My Toolbox
 <div align="center">
 <img src="/Image/Ghidra.jpg" width="50" height="50"/>
 <img src="/Image/X64dbg.jpg" width="50" height="50"/>
