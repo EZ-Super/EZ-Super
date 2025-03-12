@@ -72,6 +72,7 @@
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=EZ-Super&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)-->
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
 [![Ousu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ez-super&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-super&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
         
 </div>
