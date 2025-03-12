@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="clion" width="45" height="45"/>
-
+</div>
 
 
 <h2 align="center"> &nbsp;💻 Programing Language</h2>
@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
 </div>
           
-## 🧰 My toolbox
+<h2 align="center"> &nbsp; 🧰 My toolbox</h2>
 <div align="center">
 <img src="/Image/Ghidra.jpg" width="50" height="50"/>
 <img src="/Image/X64dbg.jpg" width="50" height="50"/>
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 </div>
 
-## 📁 DataBase
+<h2 align="center"> &nbsp; 📁 DataBase</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
