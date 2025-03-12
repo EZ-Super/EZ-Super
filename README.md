@@ -52,7 +52,7 @@
 
 ## 🛜 DNS
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ## 📊 Stats
