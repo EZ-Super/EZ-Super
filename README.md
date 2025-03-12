@@ -14,8 +14,12 @@
  **💬 Telegram:  `@Ousutw`** <br>
  **<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Discord: `o_in`** <br>
 
-
-
+## 🖥️ Operating System
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
+</div>
+    
 ## 🛠️ IDE Use
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
