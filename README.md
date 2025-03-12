@@ -6,7 +6,7 @@
 </p>
 
 
-## 👨🏻‍💻 About Me <br>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> About Me <br>
 
  **🔹 Active: Everyday`7:00-23:00` (GMT+8)** <br> 
  **🔹 Status: DND (Message reply in: `5`hours)** <br> 
