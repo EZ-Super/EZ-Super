@@ -51,11 +51,12 @@
 </div>
 
 ## 📊 Stats
-
+<div align="center">
+    
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EZ-Super&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
 
+</div>
 
 <div align="center">
   <picture>
