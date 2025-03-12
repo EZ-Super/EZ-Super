@@ -17,7 +17,7 @@
 ## 🖥️ Operating System
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="50" height="50"/>
 </div>
     
 ## 🛠️ IDE Use
