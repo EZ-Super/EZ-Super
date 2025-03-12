@@ -7,12 +7,13 @@
 
 
 ## 👨🏻‍💻 About Me <br>
+<div align="center">
  **🔹 Active: Everyday`7:00-23:00` (GMT+8)** <br> 
  **🔹 Status: DND (Message reply in: `5`hours)** <br> 
  **🔸 Research Domain: Binary Reverse Engineering、Malware analyst、Exploit Development.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
  **📞 Discord: `o_in`** <br>
-
+</div>
 
 
 ## 🛠️ IDE Use
@@ -22,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="clion" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rustrover/Rustrover-original.svg" width="45" height="45"/>
-
+</div>
 
 
 ## 💻 Programing Language
@@ -33,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
-          
+</div>
           
 ## 🧰 My toolbox
 <div align="center">
@@ -47,7 +48,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
-
+</div>
 
 ## 📊 Stats
 <div align="center">
