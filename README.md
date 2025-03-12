@@ -16,7 +16,7 @@
 
 
 
-## 🛠️ IDE Use
+<h2 align="center"> &nbsp;🛠️ IDE Use</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50">
@@ -25,7 +25,7 @@
 </div>
 
 
-## 💻 Programing Language
+<h2 align="center"> &nbsp;💻 Programing Language</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
