@@ -64,7 +64,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Ousu!!!;Welcome+to+find+me+on+Discord+%3C%3A;Hope+u+enjoy!)](https://git.io/typing-svg)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/Bottom.svg"></div>
-
+<p align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62&fontColor=61DAFB">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62&fontColor=35495E">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62"/>
+  </picture>
+</p>
