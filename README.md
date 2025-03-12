@@ -61,7 +61,7 @@
 </div>
 </details>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Ousu!!!;Welcome+to+find+me+on+Discord+%3C%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Ousu!!!;Welcome+to+find+me+on+Discord+%3C%3A;Hope+u+enjoy!)](https://git.io/typing-svg)
 
 
 
