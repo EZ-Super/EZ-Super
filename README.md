@@ -12,7 +12,7 @@
  **🔹 Status: DND (Message reply in: `5`hours)** <br> 
  **🔸 Research Domain: Binary Reverse Engineering、Malware analyst、Exploit Development.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
- **📞 Discord: `o_in`** <br>
+ **<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Discord: `o_in`** <br>
 
 
 
