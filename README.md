@@ -16,7 +16,7 @@
 
 
 
-<h2 align="center"> &nbsp;🛠️ IDE Use</h2>
+## 🛠️ IDE Use
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50">
@@ -25,7 +25,7 @@
 </div>
 
 
-<h2 align="center"> &nbsp;💻 Programing Language</h2>
+## 💻 Programing Language
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
 </div>
           
-<h2 align="center"> &nbsp; 🧰 My toolbox</h2>
+## 🧰 My toolbox
 <div align="center">
 <img src="/Image/Ghidra.jpg" width="50" height="50"/>
 <img src="/Image/X64dbg.jpg" width="50" height="50"/>
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 </div>
 
-<h2 align="center"> &nbsp; 📁 DataBase</h2>
+## 📁 DataBase
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" />
