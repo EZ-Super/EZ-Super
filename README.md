@@ -5,15 +5,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ousu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Github%20page!&descAlignY=51&descAlign=62"/>
 </p>
 
-
-## 👨🏻‍💻 About Me <br>
 <div align="center">
+## 👨🏻‍💻 About Me <br>
+</div>
  **🔹 Active: Everyday`7:00-23:00` (GMT+8)** <br> 
  **🔹 Status: DND (Message reply in: `5`hours)** <br> 
  **🔸 Research Domain: Binary Reverse Engineering、Malware analyst、Exploit Development.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
  **📞 Discord: `o_in`** <br>
-</div>
+
 
 
 ## 🛠️ IDE Use
