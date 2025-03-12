@@ -73,8 +73,6 @@
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ-Super&theme=blue-green)
 [![Ousu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ez-super&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-super&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-        
 </div>
 </details>
 
