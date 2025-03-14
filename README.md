@@ -19,6 +19,40 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="50" height="50"/>
 </div>
+
+```rs
+
+#[derive(Debug)]
+struct Me<'a> {
+    name: String,
+    tech: Vec<&'a str>,
+    research_domains
+}
+
+impl<'a> Default for Me<'a> {
+    fn default() -> Self {
+        Me {
+            name: "Ousu".to_string(),
+            language: vec![
+                "Rust",
+                "C++",
+                "C",
+                "JavaScript",
+                "TypeScript",
+            ],
+            research_domains: vec![
+                " Binary Reverse Engineering", "Malware Analysis", "Exploit Development",
+            ],
+        }
+    }
+}
+
+fn main() {
+    println!("Hello, it's me! {:?}", Me::default());
+}
+
+
+```
     
 ## 🛠️ IDE Use
 <div align="center">
