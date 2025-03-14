@@ -20,7 +20,7 @@
 struct Me<'a> {
     name: String,
     language: Vec<&'a str>,
-    research_domains
+    research_domains: Vec<&'a str>,
 }
 
 impl<'a> Default for Me<'a> {
