@@ -33,6 +33,7 @@ impl<'a> Default for Me<'a> {
                 "C",
                 "JavaScript",
                 "TypeScript",
+                "GO",
             ],
             research_domains: vec![
                 " Binary Reverse Engineering", "Malware Analysis", "Exploit Development",
