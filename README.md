@@ -100,7 +100,7 @@ fn main() {
   * ethidra.org
   * csbctw.org
 <div align="center">
-<h3> 🏢 Vendor </h3>
+<h3> 🏢 Supplier </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="50" height="50"/>
           
 </div>
