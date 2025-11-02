@@ -13,7 +13,7 @@
  **🔸 Research Domains: Binary Reverse Engineering, Malware Analysis, Exploit Development.** <br>
  **💬 Telegram:  `@Ousutw`** <br>
  **🔕 NaaS (No as a Service)**<br>
- **<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Discord: `o_in`** <br>
+ **<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Discord: `_ousu_`** <br>
 
 ```rs
 
