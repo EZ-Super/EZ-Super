@@ -54,6 +54,8 @@ fn main() {
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="50" height="50"/>
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="50" height="50"/>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42fc4bf9-1a4c-467c-8e66-73ea9e345dfe"  width="50" height="50"/>
+
 </div>
     
 ## 🛠️ IDE Use
@@ -74,6 +76,10 @@ fn main() {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="50" height="50"/>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af9aa594-3ad3-406d-ba4e-b0b91268b928"  width="50" height="50"/>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/561cacf9-246e-4c46-b449-5971cf4c87a6"  width="50" height="50"/>
+
+
           
 </div>
           
