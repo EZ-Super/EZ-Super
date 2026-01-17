@@ -37,7 +37,7 @@ impl<'a> Default for Me<'a> {
                 "GO",
             ],
             research_domains: vec![
-                " Binary Reverse Engineering", "Malware Analysis", "Exploit Development",
+                " Binary Reverse Engineering", "Malware Analysis", "Exploit Development","RL-based Automated Exploitation"
             ],
         }
     }
