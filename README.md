@@ -88,7 +88,6 @@ fn main() {
 <img src="/Image/Ghidra.jpg" width="50" height="50"/>
 <img src="/Image/X64dbg.jpg" width="50" height="50"/>
 <img src="/Image/Metasploit.png" width="50" height="50"/>
-<img src = "https://camo.githubusercontent.com/349eaf015d0adca9a6d9ef24a64e55d3d9d807477df5b3790471caebf07895fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646973636f72646a732f646973636f72646a732d6f726967696e616c2e737667" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 </div>
 
